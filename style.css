@@ -1,0 +1,84 @@
+body {
+background-color:#f9ebe0;
+}
+
+.prez {
+  position:absolute;
+  margin-top: -60px;
+  margin-left: 30px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20px;
+}
+
+
+.photo {
+  position:absolute;
+  margin-top:160px;
+  margin-left:2px;
+  overflow:hidden;
+  -webkit-border-radius:120px;
+  -moz-border-radius:120px;
+  border-radius:120px;
+  width:195px;
+  height:200px;
+  background-position:center;
+  border: 3px solid #463f1a;
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  margin-left:250px;
+  color:#0d2149;
+}
+
+h2 {
+  font-family: 'Indie Flower', cursive;
+  margin-left:250px;
+  color:#0d2149;
+  font-size: 25px;
+  
+}
+
+ul, li {
+  position:relative;
+  text-align:justify;
+  margin-left:126px;
+  list-style-type:none;
+  list-style-image : url(./image/ancre.png);
+  color:#60492c;
+  font-family: 'Shadows Into Light', cursive;
+  font-size:22px;
+}
+
+
+.columns {
+  position:absolute;
+ -webkit-columns: 1;
+ -moz-columns: 1;
+ columns: 1;
+ text-align:justify;
+ margin-top:-107px;
+ margin-left:-8px;
+ padding-top:45px;
+ padding-left:15px;
+ background-color:#40A497;
+ Width:223px;
+ height:1500px;
+}
+
+.navire {
+  position:absolute;
+  opacity:0.1;
+  margin-left:250px;
+}
+
+.roue {
+  position:absolute;
+  margin-top: 1160px;
+  margin-left: 20px;
+  opacity: 0.5;
+}
+.comp {
+  position:relative;
+  margin-left:250px;
+}
